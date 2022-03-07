@@ -1,6 +1,6 @@
 # Panqueca
 
-#### A panqueca é um prato mais trabalhoso e demorado, porém quando pronta é um prato de se valer a pena, pois pode se comer de diversas maneiras se utilizar a criatividade. Geralemnte é recheada com carnes ao molho porem pode também ser utilizados espinafre, ricota, brocolis e tambem alterando o sal para açucar podemos fazer panqueca doce que combina com qualquer outro ingrediente que também seja doce.
+ A panqueca é um prato mais trabalhoso e demorado, porém quando pronta é um prato de se valer a pena, pois pode se comer de diversas maneiras se utilizar a criatividade. Geralmente é recheada com carnes ao molho porem pode também ser utilizados espinafre, ricota, brócolis e também alterando o sal para açúcar podemos fazer panqueca doce que combina com qualquer outro ingrediente que também seja doce.
 
 ### Ingredientes 
 
